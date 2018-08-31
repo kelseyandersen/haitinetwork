@@ -1,0 +1,11 @@
+GID_0,NAME_0,GID_1,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,Region,Incidence
+HTI,Haiti,HTI.1_1,Centre,Plateau Central,,Département,Department,,HT.CE,None,
+HTI,Haiti,HTI.2_1,Grand'Anse,Grande-Asne|Grande Anse,,Département,Department,,HT.GR,None,
+HTI,Haiti,HTI.3_1,L'Artibonite,Artibonite,,Département,Department,,HT.AR,SW,45
+HTI,Haiti,HTI.4_1,Nippes,Miragoâne,,Département,Department,,HT.NI,None,
+HTI,Haiti,HTI.7_1,Nord,,,Département,Department,,HT.ND,North,15
+HTI,Haiti,HTI.5_1,Nord-Est,,,Département,Department,,HT.NE,None,
+HTI,Haiti,HTI.6_1,Nord-Ouest,,,Département,Department,,HT.NO,None,
+HTI,Haiti,HTI.8_1,Ouest,,,Département,Department,,HT.OU,None,
+HTI,Haiti,HTI.10_1,Sud,,,Département,Department,,HT.SD,South,30
+HTI,Haiti,HTI.9_1,Sud-Est,,,Département,Department,,HT.SE,None,
